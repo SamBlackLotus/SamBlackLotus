@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamBlackLotus
-- 👀 I’m interested in all Front-End technologies
-- 🌱 I’m currently learning React for Javascript
+- 👀 I’m interested in all Back-End technologies
+- 🌱 I’m currently learning .Net Framework for C#
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me: sam.blacklotus@gmail.com
 
