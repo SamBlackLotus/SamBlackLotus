@@ -29,4 +29,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samaraquintino/)](https://www.linkedin.com/in/samaraquintino/)
 [![Gmail Badge](https://img.shields.io/badge/-blacklotus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.blacklotus@gmail.com)](mailto:sam.blacklotus@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SamBlackLotus)https://github.com/SamBlackLotus))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SamBlackLotus))
