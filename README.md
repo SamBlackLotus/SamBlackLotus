@@ -1,4 +1,4 @@
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
   Hello! My name is Samara, I'm a junior software developer currently learning and improving my skills to achieve my goals and get in to the IA development world.   
