@@ -1,5 +1,5 @@
 <p align="left"> 
-  Hello! My name is Samara, I'm a junior software developer currently learning and improving my skills to achieve my goals and get in to the IA development world. </p>
+  Hello! My name is Samara, I'm a software developer currently learning and improving my skills. </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samblacklotus&layout=compact)
 
