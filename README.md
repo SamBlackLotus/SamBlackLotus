@@ -1,7 +1,7 @@
 <p align="left"> 
   Hello! My name is Samara, I'm a software developer currently learning and improving my skills. </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samblacklotus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamBlackLotus&layout=compact)
 
 <h3>My Skills</h3>
 
