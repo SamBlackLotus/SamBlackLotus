@@ -41,4 +41,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-samaraquintino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samaraquintino/)](https://www.linkedin.com/in/samaraquintino/)
 [![Gmail Badge](https://img.shields.io/badge/-black.lotus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.blacklotus@gmail.com)](mailto:sam.blacklotus@gmail.com)
-[![GitHub](https://img.shields.io/github)](https://github.com/SamBlackLotus)
