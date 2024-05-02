@@ -1,5 +1,5 @@
 <p align="left"> 
-  Hello! My name is Samara, I'm a software developer currently learning and improving my skills. </p>
+  Hello! My name is Samara, I'm a back-end software developer.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamBlackLotus&layout=compact)
 
@@ -41,4 +41,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-samaraquintino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samaraquintino/)](https://www.linkedin.com/in/samaraquintino/)
 [![Gmail Badge](https://img.shields.io/badge/-black.lotus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.blacklotus@gmail.com)](mailto:sam.blacklotus@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SamBlackLotus)
+[![GitHub](https://img.shields.io/github)](https://github.com/SamBlackLotus)
